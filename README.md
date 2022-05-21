@@ -1,4 +1,4 @@
-# KII-MAsternode
+# KII-Masternode
 ## Install KII Masternode on UBUNTU VPS
 
 **Open your KII Core Wallet.
